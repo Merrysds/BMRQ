@@ -1,6 +1,9 @@
 streamlit
 pandas
-gspread
+supabase
+gotrue
+postgrest
+storage3
+realtime
+requests
 google-auth
-google-auth-oauthlib
-google-auth-httplib2
